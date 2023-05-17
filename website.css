@@ -1,0 +1,157 @@
+
+
+header{
+    background-color:white;
+    height:131px;
+    width:100%;
+    margin: 10px auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
+}
+.logo{
+    height:131px; 
+    width:130px;
+  background-image: url(appleremove.png);
+    border-radius: 50px;
+    
+}
+nav a{
+    text-decoration: none;
+    font-size: 18pt;
+    font-family:fantasy;
+    color: black;
+    margin:0 15px;
+}
+nav a:hover{
+    text-decoration: underline;
+    color:orange;
+}
+
+.banner{
+    background-color: black;
+    height:650px;
+    width:100%;
+    font-size: 50px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(macbookhd.jpg);
+    background-size: cover;
+    background-position: center;
+}
+ .banner div a{
+     color: antiquewhite;
+     background-color: darkorange;
+     text-decoration: none;
+     border-radius: 5px;
+     font-size: 20pt;
+     padding:9px 35px;
+      display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.banner div a:hover{
+    background-color: orange;
+}
+.page{
+    width: 80%;
+    height:500px;
+    margin:15px auto;
+    border:2px solid white;
+    display: flex;
+}
+.page article{
+    background-color: crimson;
+    height: inherit;
+    width:60%;
+    background-image: url(stu.jpg);
+    background-size: cover;
+   font-size: 35px;
+display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+  
+}
+.page aside{
+     background-color:white;
+    height: inherit;
+    width:60%;
+    background-image: url(busine.webp);
+    background-size: cover;
+    font-size: 35px;
+ display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    margin-left: 30px;
+}
+.nextpage article{
+     background-color: crimson;
+    height:700px;
+    width:100%;
+    background-image:url(os.webp);
+    background-size: cover;
+   font-size: 35px;
+   display: flex;
+   justify-content: center;
+    align-items: center;
+    color: white;
+}
+.nextpage aside{
+    background-color:white;
+    height: 300px;
+    width:100%;
+  
+    font-size:30px;
+ 
+    color: black;
+    
+}
+.lastpage{
+      width: 80%;
+    height:500px;
+    margin:15px auto;
+    border:2px solid white;
+    display: flex;
+}
+.lastpage article{
+    height:400px;
+    width:600px;
+    background-color: antiquewhite;
+    
+display: flex;
+   justify-content: center;
+    align-items: center;
+   
+}
+.lastpage aside{
+    height:400px;
+    width:1000px;
+    background-color:white;
+   margin-left: 30px;
+    font-size: 30px;
+}
+.box2{
+    height:300px;
+    width:300px;
+    background-color: antiquewhite;
+    display: flex;
+   justify-content: center;
+    align-items: center;  
+}
+footer{
+    height:100px;
+    width:100%;
+    background-color:whitesmoke;
+    margin: 0 0 0 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sagarfont{
+    font-size: 50pt;
+    padding: 30px;

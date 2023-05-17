@@ -1,0 +1,149 @@
+
+
+header{
+    background-color:white;
+    height:131px;
+    width:100%;
+    margin: 10px auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.logo{
+    height:131px; 
+    width:130px;
+  background-image: url(appleremove.png);
+    border-radius: 50px;
+    
+}
+nav a{
+    text-decoration: none;
+    font-size: 18pt;
+    font-family:fantasy;
+    color: black;
+    margin:0 15px;
+}
+nav a:hover{
+    text-decoration: underline;
+    color:orange;
+}
+.banner{
+    background-color: black;
+    height:900px;
+    width:100%;
+    font-size: 50px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(riview.jpg);
+    background-size: cover;
+    background-position: center;
+    
+}
+.page{
+    width: 100%;
+    height:350px;
+    margin:15px auto;
+    border:2px solid white;
+    display: flex;
+}
+.page article{
+    background-color:green;
+    height:350px;
+    width:30%;
+    background-image: url(maccompany.jpg);
+    background-size: cover;
+   font-size: 35px;
+display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+  
+}
+ .page aside{
+     background-color:white;
+    height:250px;
+    width:60%;
+    font-size: 35px;
+    color: black;
+     margin-left: 30px;
+}
+.page2{
+    width: 100%;
+    height:400px;
+    margin:15px auto;
+    border:2px solid white;
+    display: flex;
+}
+.page2 article{
+    background-color:green;
+    height:400px;
+    width:30%;
+    background-image: url(appleproduct.jpg);
+    background-size: cover;
+   font-size: 35px;
+display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+  
+}
+ .page2 aside{
+     background-color:white;
+    height:10px;
+    width:60%;
+    font-size: 35px;
+    color: black;
+     margin-left: 30px;
+}
+.page2 aside a{
+          color: antiquewhite;
+    width:30%;
+     background-color: darkorange;
+     text-decoration: none;
+     border-radius: 5px;
+     font-size: 20pt;
+    
+      display: flex;
+    justify-content:center;
+    align-items: center;
+    margin-left: 300px;
+    margin-top: 10px;
+    
+}
+.page2 aside a:hover{
+    background-color: orange;
+}
+footer{
+    height:100px;
+    width:100%;
+    background-color:whitesmoke;
+    margin: 0 0 0 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sagarfont{
+    font-size: 50pt;
+    padding: 30px;
+}
+.map{
+      background-color:white;
+    height:300px;
+    width:100%;
+    font-size: 35px;
+    color: black;
+     margin-left: 30px;
+    display: flex;
+}
+.language{
+    background-color:white;
+    height:300px;
+    width:50%;
+    margin-left: 15px;
+
+   
+     font-size: 18pt;
+}

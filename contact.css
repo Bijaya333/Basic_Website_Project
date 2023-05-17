@@ -1,0 +1,97 @@
+
+
+header{
+    background-color:white;
+    height:131px;
+    width:100%;
+    margin: 10px auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
+}
+.logo{
+    height:131px; 
+    width:130px;
+  background-image: url(appleremove.png);
+    border-radius: 50px;
+    
+}
+nav a{text-decoration: none;
+    font-size: 18pt;
+    font-family:fantasy;
+    color: black;
+    margin:0 15px;
+}
+nav a:hover{
+    text-decoration: underline;
+    color:orange;
+}
+
+.banner{
+    background-color: black;
+    height:900px;
+    width:100%;
+    font-size: 50px;
+    color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(questions.jpg);
+    background-size: cover;
+    align-items: center;
+    background-position: center;
+    
+}
+.form{
+    width: 300px;
+    background-color: whitesmoke;
+    margin: 0 auto;
+    padding: 40px;
+    
+}
+.page{
+    width: 100%;
+    height:350px;
+    margin:15px auto;
+    border:2px solid white;
+    display: flex;
+    background-color: white;
+    justify-content: center;
+    align-items: center;
+}
+
+.page2{
+    width: 100%;
+    height:400px;
+    margin:15px auto;
+    border:2px solid white;
+    display: flex;
+}
+.questions textarea{
+    margin-top: 50px;
+    width: 100%;
+    height: 200px;
+padding: 10px;
+    background-color: white;
+    box-sizing: border-box;
+    font-size: 15pt;
+    border-radius: 5px;
+    
+    
+}
+
+
+footer{
+    height:100px;
+    width:100%;
+    background-color:whitesmoke;
+    margin: 0 0 0 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sagarfont{
+    font-size: 50pt;
+    padding: 30px;
+}
